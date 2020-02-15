@@ -1,3 +1,2 @@
 # 2020_BuildSchool-C-
-BuildSchool Lab\n
-BuildSchool Homework
+BuildSchool Lab and Homework
